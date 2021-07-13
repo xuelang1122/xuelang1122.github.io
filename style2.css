@@ -51,11 +51,11 @@ img{vertical-align: middle;}/* 作用一：改变图片的垂直对齐方式；�
     width: 980px;
     height: 100%;
     margin: 0 auto;
-	background: url(../img/bottom.png) no-repeat center bottom;
+	background: url(bottom.png) no-repeat center bottom;
 	background-size: 980px 100px;
 }
 .left {
-    background: url(../img/demo.png) no-repeat center center;
+    background: url(demo.png) no-repeat center center;
 	background-size: cover;
     float: left;
     width: 380px;
@@ -75,7 +75,7 @@ img{vertical-align: middle;}/* 作用一：改变图片的垂直对齐方式；�
     height: 132px;
 }
 .iphone {
-    background:url(../img/ios.png) no-repeat center center;
+    background:url(ios.png) no-repeat center center;
 	background-size: 225px 66px;
 	border-radius: 15px;
     display: inline-block;
@@ -84,7 +84,7 @@ img{vertical-align: middle;}/* 作用一：改变图片的垂直对齐方式；�
     margin-left: 2px;
 }
 .android{
-	background:url(../img/android.png) no-repeat center center;
+	background:url(android.png) no-repeat center center;
 	background-size: 225px 66px;
 	border-radius: 15px;
     display: inline-block;
