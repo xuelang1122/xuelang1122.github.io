@@ -39,7 +39,7 @@ img{vertical-align: middle;}/* 作用一：改变图片的垂直对齐方式；�
 .banner{
 	width:100%;
 	height:570px;
-	background: url(../img/bg.jpg) no-repeat center center;
+	background: url(bg.jpg) no-repeat center center;
 	/* background-size: 1000px 570px; */
 
 }
